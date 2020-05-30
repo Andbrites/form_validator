@@ -2,7 +2,7 @@
 
 Example to validade form with Vanilla JS
 
-####**Show input error message**
+#### **Show input error message**
 
 ---
 
